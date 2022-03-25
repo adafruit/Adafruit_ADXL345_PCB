@@ -1,6 +1,8 @@
 # PCB for the Adafruit 5V ready ADXL345 Digital Triple-Axis Acceleromter (I2C or SPI)
 
-<a href="http://www.adafruit.com/products/1231"><img src="assets/image.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
+<a href="http://www.adafruit.com/products/1231"><img src="assets/image-qt.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/1231"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a>
 
 __Format is EagleCAD schematic and board layout__
 
